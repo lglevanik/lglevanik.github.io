@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "laurenglevanik.github.io"
+  title: "Lauren Glevanik"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
+      - teaching.qmd
+      - cv.qmd
+      - commsci.qmd
+      - photography.qmd
 
 format:
   html:

@@ -1,11 +1,18 @@
 ---
-title: "laurenglevanik.github.io"
+title: "Lauren Glevanik"
+image: Desktop/Photos/Personal/IMG_9750.jpg
+toc: false
+about: 
+  template: broadside
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/laurenglevanik/
+    - text: GitHub
+      href: https://github.com/lglevanik
+    - text: Email
+      href: mailto::lglevanik@ucla.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+text
