@@ -22,3 +22,7 @@ format:
 
 editor: visual
 
+# git clone https://github.com/lglevanik/laurenglevanik.github.io.git
+# cd laurenglevanik.github.io
+# ls
+# git remote show origin
