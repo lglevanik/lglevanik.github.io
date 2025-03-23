@@ -1,18 +1,28 @@
 ---
 title: "Lauren Glevanik"
-image: Desktop/Photos/Personal/IMG_9750.jpg
-toc: false
+
 about: 
   template: broadside
-  image-shape: rectangle
-  image-width: 17em
+  image: media/IMG_9750 copy.jpg
+  image-shape: rounded
+  image-width: 15em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/laurenglevanik/
-    - text: GitHub
-      href: https://github.com/lglevanik
     - text: Email
       href: mailto::lglevanik@ucla.edu
+      icon: envelope
+    - text: iNaturalist
+      href: https://www.inaturalist.org/people/lglevanik
+      icon: feather
+    - text: GitHub
+      href: https://github.com/lglevanik
+      icon: github
+    - text: CV
+      href: media/cv_2025.pdf
+      icon: file-earmark-text
 ---
 
-text
+Hey there! My name is Lauren and I'm a Ph.D. candidate in the Department of Ecology and Evolutionary Biology at UCLA. I work with [**Dr. Nathan Kraft**](https://sites.lifesci.ucla.edu/eeb-kraft/)'s plant community ecology group.\
+\
+​My research focuses on how seed dispersal shapes plant communities. I combine field data with ecological modeling to investigate how species-specific dispersal influences biodiversity locally and across landscapes.\
+\
+I earned my B.S. in Plant Biology from UC Davis with minors in Professional Writing and Ecology, Evolution, & Biodiversity. There, I also completed my California Naturalist certification, which kickstarted my love for community science. You can find me documenting every organism I see on iNaturalist, eBird, or a number of other community science platforms.
