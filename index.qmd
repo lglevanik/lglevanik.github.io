@@ -2,10 +2,10 @@
 title: "Lauren Glevanik"
 
 about: 
-  template: broadside
+  template: solana
   image: media/IMG_9750 copy.jpg
   image-shape: rounded
-  image-width: 15em
+  image-width: 20em
   links:
     - text: Email
       href: mailto::lglevanik@ucla.edu
@@ -21,7 +21,9 @@ about:
       icon: file-earmark-text
 ---
 
-Hey there! My name is Lauren and I'm a Ph.D. candidate in the Department of Ecology and Evolutionary Biology at UCLA. I work with [**Dr. Nathan Kraft**](https://sites.lifesci.ucla.edu/eeb-kraft/)'s plant community ecology group.\
+Hey there!
+
+My name is Lauren Glevanik and I'm a Ph.D. candidate in the Department of Ecology and Evolutionary Biology at UCLA. I work with [**Dr. Nathan Kraft**](https://sites.lifesci.ucla.edu/eeb-kraft/)'s plant community ecology group.\
 \
 ​My research focuses on how seed dispersal shapes plant communities. I combine field data with ecological modeling to investigate how species-specific dispersal influences biodiversity locally and across landscapes.\
 \
