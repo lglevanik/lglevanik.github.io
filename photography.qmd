@@ -60,6 +60,24 @@ When I’m not outside in the field for research, I'm outside as an avid nature 
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 50%;
   }
+  
+  .carousel-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5); /* Black background with 40% opacity */
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    text-align: left;
+    border-radius: 2px;
+  }
+
+  .carousel-caption h5,
+  .carousel-caption p {
+    color: white;
+    margin: 0;
+  }
 </style>
 ```
 
@@ -102,37 +120,79 @@ When I’m not outside in the field for research, I'm outside as an avid nature 
 
 :::::::: carousel-wrapper
 ::::::: {#featuredCarousel .carousel .slide data-bs-ride="carousel"}
+
 <!-- Image Container -->
 
 :::::: carousel-inner
+::: carousel-item
+<img src="gallery/featured/milkvetch.jpg" alt="Jepson's milkvetch flower in bloom" class="d-block w-100"/>
+<div class="carousel-caption d-none d-md-block">
+  <p>Jepson's milkvetch (Astragalus rattanii var. jepsonianus) featured by California Native Plant Society.</p>
+</div>
+:::
+
 ::: {.carousel-item .active}
-<img src="gallery/featured/cattenuata.jpeg" alt="Featured Image 1" class="d-block w-100"/>
+<img src="gallery/featured/metalmark.jpg" alt="Behr's metalmark butterfly on California buckwheat" class="d-block w-100"/>
+<div class="carousel-caption d-none d-md-block">
+  <p>Behr's metalmark (Apodemia virgulti) featured in "Sketches" published by the San Diego Audubon Society; additionally featured by the City of Los Angeles.</p>
+</div>
 :::
 
 ::: carousel-item
-<img src="gallery/featured/checkermallow.jpg" alt="Featured Image 2" class="d-block w-100"/>
+<img src="gallery/featured/checkermallow.jpg" alt="Keck's checkerbloom flower in bloom" class="d-block w-100"/>
+<div class="carousel-caption d-none d-md-block">
+  <p>Keck's checkerbloom (Sidalcea keckii) featured by the U.S. Fish & Wildlife Service.</p>
+</div>
 :::
 
 ::: carousel-item
-<img src="gallery/featured/firepoppy.jpg" alt="Featured Image 3" class="d-block w-100"/>
+<img src="gallery/featured/firepoppy.jpg" alt="Fire poppy flower in bloom" class="d-block w-100"/>
+<div class="carousel-caption d-none d-md-block">
+  <p>Fire poppy (Papaver californicum), featured by the Natural History Museum of LA County.</p>
+</div>
+:::
+
+::: carousel-item
+<img src="gallery/featured/riverotter.jpg" alt="Four river otters perched on a bank with a fifth in the background" class="d-block w-100"/>
+<div class="carousel-caption d-none d-md-block">
+  <p>North American river otter (Lotra canadensis), featured in "The Conservationist" published by the Forest Preserve District of DuPage County, IL.</p>
+</div>
+:::
+
+::: carousel-item
+<img src="gallery/featured/ghow.png" alt="Great horned owl looking into the distance" class="d-block w-100"/>
+<div class="carousel-caption d-none d-md-block">
+  <p>Great horned owl (Bubo virginianus) featured by UC Davis.</p>
+</div>
+:::
+
+::: carousel-item
+<img src="gallery/featured/gbhe.jpg" alt="Great blue heron eating a vole" class="d-block w-100"/>
+<div class="carousel-caption d-none d-md-block">
+  <p>Great blue heron (Ardea herodias) and California vole (Microtus californicus) featured by UC Davis and City Nature Challenge Sacramento.</p>
+</div>
+:::
+
+::: carousel-item
+<img src="gallery/featured/rwbb.jpg" alt="Red-winged blackbird singing while perched on a reed" class="d-block w-100"/>
+<div class="carousel-caption d-none d-md-block">
+  <p>Red-winged blackbird (Agelaius phoeniceus) featured in Bay Nature magazine.</p>
+</div>
 :::
 ::::::
 
 <!-- Visible Previous Button -->
-
 <button class="carousel-control-prev" type="button" data-bs-target="#featuredCarousel" data-bs-slide="prev">
-
-[Previous]{.visually-hidden}
-
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  <span class="sr-only"></span>
 </button>
 
 <!-- Visible Next Button -->
-
 <button class="carousel-control-next" type="button" data-bs-target="#featuredCarousel" data-bs-slide="next">
-
-[Next]{.visually-hidden}
-
+  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <span class="sr-only"></span>
 </button>
+
 :::::::
 ::::::::
 ::::::::::

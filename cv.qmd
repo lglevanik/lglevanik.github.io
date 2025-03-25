@@ -7,3 +7,4 @@ published-title: Last updated
 <iframe src="media/cv_2025.pdf" width="100%" height="600px">
 
 </iframe>
+![](media/violet-banner.png){alt="California golden violet and common yarrow in an annual grassland" style="float: right; margin: 0.5cm 0 1em 1em;" width="1200"}

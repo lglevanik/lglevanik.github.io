@@ -5,6 +5,9 @@ project:
 website:
   title: "Lauren Glevanik"
   site-url: https://lglevanik.github.io/
+  google-analytics: 
+    tracking-id: "G-89JSJ2W9GQ"
+    anonymize-ip: true
   navbar:
     left:
       - href: index.qmd
@@ -29,8 +32,3 @@ format:
     page-layout: full
 
 editor: visual
-
-# git clone https://github.com/lglevanik/laurenglevanik.github.io.git
-# cd laurenglevanik.github.io
-# ls
-# git remote show origin
