@@ -1,3 +1,49 @@
 ---
 title: "Community Science"
+format: html
+toc: false
+# can add back font-weight: bold into style below. can't decide what I like better...
 ---
+
+Community science (or participatory science) is a collaborative approach to answering scientific questions that engages local communities to collect, analyze, or interpret data. It's an opportunity to contribute to new discoveries and deepen our understanding of the world, regardless of your background or experience. There are many projects & campaigns that rely on volunteer contributors -- some global, some local -- so there are lots of ways to get involved.
+
+​If you’re new to community science and would like to find projects in need of participants, start with [SciStarter](https://scistarter.org/): this is a great catalog of projects to filter by your interests, resources, and abilities. My favorites to contribute to are iNaturalist, CalFlora, and eBird.
+
+:::::: {style="display: flex; justify-content: space-between;"}
+::: {style="width: 30%; text-align: center;"}
+<img src="media/hornlizard.jpeg" alt="Blainville&apos;s horned lizard&apos;" style="width: 100%; margin-top: 0.2cm; margin-bottom: 0.2cm; border-radius: 8px;"/> <a href="https://inaturalist.org/faves/lglevanik" target="_blank" 
+   style="display: inline-block; text-decoration: none; background-color: white; color: #333333; border: 2px solid #cccccc; padding: 12px 20px; border-radius: 5px; margin-top: 10px; font-size: 18px; text-align: center; transition: all 0.3s ease;"
+   onmouseover="this.style.color='#2761E3'; this.style.borderColor='#2761E3';" 
+   onmouseout="this.style.color='#333333'; this.style.borderColor='#cccccc';"> Best of iNaturalist </a>
+:::
+
+::: {style="width: 30%; text-align: center;"}
+<img src="media/chapyucca.JPG" alt="chaparral yucca flower skewered on its own leaf" style="width: 100%; margin-top: 0.2cm; margin-bottom: 0.2cm; border-radius: 8px;"/> <a href="https://www.calflora.org/entry/observ.html#srch=t&obs=lglevanik&cols=b&inat=r" target="_blank" style="display: inline-block; text-decoration: none; background-color: white; color: #333333; border: 2px solid #cccccc; padding: 12px 20px; border-radius: 5px; margin-top: 10px; font-size: 18px; text-align: center; transition: all 0.3s ease;"
+   onmouseover="this.style.color='#2761E3'; this.style.borderColor='#2761E3';" 
+   onmouseout="this.style.color='#333333'; this.style.borderColor='#cccccc';"> CalFlora Contributions </a>
+:::
+
+::: {style="width: 30%; text-align: center;"}
+<img src="media/yrwb.JPG" alt="yellow rumped warbler perched on a stick and singing" style="width: 100%; margin-top: 0.2cm; margin-bottom: 0.2cm; border-radius: 8px;"/> <a href="https://media.ebird.org/catalog?unconfirmed=incl&mediaType=photo&userId=USER2083500&sort=rating_rank_desc" target="_blank" style="display: inline-block; text-decoration: none; background-color: white; color: #333333; border: 2px solid #cccccc; padding: 12px 20px; border-radius: 5px; margin-top: 10px; font-size: 18px; text-align: center; transition: all 0.3s ease;"
+   onmouseover="this.style.color='#2761E3'; this.style.borderColor='#2761E3';" 
+   onmouseout="this.style.color='#333333'; this.style.borderColor='#cccccc';"> eBird & Macaulay Library </a>
+:::
+::::::
+
+![](media/inat-wild.JPG){alt="Lauren inatting in the wild" style="float: right; margin: 1cm 0 0.5cm 1em; border-radius: 8px;" width="400"}
+
+I'm a big fan of iNaturalist, which is a community science platform that collects biodiversity data points from around the globe. Observations that have a specified location, date, time, photographic (or sound) evidence, and multiple species-level identifications from the community are considered "Research Grade." These data points are added to other biodiversity databases like GBIF, where they've informed [thousands of published studies](https://help.inaturalist.org/en/support/solutions/articles/151000170341-how-are-inaturalist-data-used-for-research-).
+
+For a California-focused introduction to natural history, I recommend the California Naturalist courses offered through the [UC Environmental Stewards](https://ucanr.edu/statewide-program/uc-environmental-stewards) program and their many partner organizations across the state. I received my California Naturalist certification in 2019, and it provided a great introduction to both community science and local natural history.
+
+One of my favorite ways of sharing California's gorgeous flora with my community is leading natural history talks and wildflower tours as a docent at Jepson Prairie Preserve in Solano County, CA. Docent-led tours of the vernal pools run each spring on Saturdays and Sundays from mid-March through Mother's Day. Learn more about the preserve and attending a tour [here](https://solanolandtrust.org/jepson-prairie).
+
+::::: {style="display: flex; justify-content: space-between; width: 100%;"}
+::: {style="width: 48%; text-align: center;"}
+<img src="media/jepson-tour-2.jpg" alt="Lauren on docent duty hosting a natural history talk at Jepson Prairie" style="width: 100%; margin-top: 1cm; border-radius: 8px;"/> </a>
+:::
+
+::: {style="width: 48%; text-align: center;"}
+<img src="media/jepson-tour-1.jpg" alt="Lauren on docent duty leading a wildflower tour at Jepson Prairie" style="width: 100%; margin-top: 1cm; border-radius: 8px;"/> </a>
+:::
+:::::

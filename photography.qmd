@@ -1,3 +1,146 @@
 ---
 title: "Photography"
+format: html
+toc: false
 ---
+
+::: {style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em;"}
+<img src="gallery/lizard.jpg" alt="alligator lizard snuggled in chaparral yucca leaves" style="width: 100%; border-radius: 8px;"/>
+
+<img src="gallery/checkerlily.jpg" alt="checker lily flowers against a dark background" style="width: 100%; border-radius: 8px;"/>
+
+<img src="gallery/crabspid.jpg" alt="yellow crab spider on purple flowers" style="width: 100%; border-radius: 8px;"/>
+
+<img src="gallery/gumbee.jpg" alt="bee on a yellow flower" style="width: 100%; border-radius: 8px;"/>
+
+<img src="gallery/allenhumm.jpg" alt="allen&apos;s hummingbird" style="width: 100%; border-radius: 8px;"/>
+
+<img src="gallery/chickennugget.jpeg" alt="a bat named chicken nugget that fell out of the shutters one time and spooked me" style="width: 100%; border-radius: 8px;"/>
+
+<img src="gallery/carpbee.jpg" alt="valley carpenter bee visiting sweet pea flowers" style="width: 100%; border-radius: 8px;"/>
+
+<img src="gallery/crabspid-white.jpeg" alt="white crab spider with arms (legs?) raised" style="width: 100%; border-radius: 8px;"/>
+
+<img src="gallery/heth.jpg" alt="rotund hermit thrush with no thoughts behind those eyes" style="width: 100%; border-radius: 8px;"/>
+:::
+
+When I’m not outside in the field for research, I'm outside as an avid nature photographer. I love both wildflowers and birds, and with the great diversity of both in California, I'm always pursuing something in season. For a sampling of my photography, explore my [iNaturalist highlights](https://www.inaturalist.org/faves/lglevanik) or [Instagram](https://www.instagram.com/outdoor.naturalist).
+
+```{=html}
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+  }
+
+  .text-block {
+    width: 50%; 
+    text-align: left;
+  }
+
+  .carousel-wrapper {
+    width: 50%;
+    text-align: right;
+  }
+
+  .carousel-inner img {
+    max-height: 400px;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+
+  .carousel-control-prev-icon, 
+  .carousel-control-next-icon {
+    width: 3rem;
+    height: 3rem;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+  }
+</style>
+```
+
+:::::::::: container
+<!-- Left Text Block -->
+
+::: text-block
+**My work has been featured by:**
+
+<ul>
+
+<li>Los Angeles Times</li>
+
+<li>Natural History Museum of Los Angeles</li>
+
+<li>City of Los Angeles</li>
+
+<li>San Diego Audubon Society</li>
+
+<li>California Department of Fish & Wildlife</li>
+
+<li>California Native Plant Society</li>
+
+<li>California Academy of Sciences</li>
+
+<li>U.S. Department of Fish & Wildlife</li>
+
+<li>City Nature Challenge: Sacramento Region</li>
+
+<li>City Nature Challenge: San Francisco Bay Region</li>
+
+<li>UC Davis Arboretum and Public Garden</li>
+
+<li>Bay Nature Magazine</li>
+
+</ul>
+:::
+
+<!-- Right Carousel -->
+
+:::::::: carousel-wrapper
+::::::: {#featuredCarousel .carousel .slide data-bs-ride="carousel"}
+<!-- Image Container -->
+
+:::::: carousel-inner
+::: {.carousel-item .active}
+<img src="gallery/featured/cattenuata.jpeg" alt="Featured Image 1" class="d-block w-100"/>
+:::
+
+::: carousel-item
+<img src="gallery/featured/checkermallow.jpg" alt="Featured Image 2" class="d-block w-100"/>
+:::
+
+::: carousel-item
+<img src="gallery/featured/firepoppy.jpg" alt="Featured Image 3" class="d-block w-100"/>
+:::
+::::::
+
+<!-- Visible Previous Button -->
+
+<button class="carousel-control-prev" type="button" data-bs-target="#featuredCarousel" data-bs-slide="prev">
+
+[Previous]{.visually-hidden}
+
+</button>
+
+<!-- Visible Next Button -->
+
+<button class="carousel-control-next" type="button" data-bs-target="#featuredCarousel" data-bs-slide="next">
+
+[Next]{.visually-hidden}
+
+</button>
+:::::::
+::::::::
+::::::::::
+
+```{=html}
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+```
+
+**Print & Digital Photo Licensing Policy**
+
+Any use of my photography (digitally or in print) is subject to copyright and may only be done with appropriate permission and a license. My photos on iNaturalist are licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), meaning you may share these photos non-commercially as long as you provide credit by including © Lauren Glevanik and a link back to either my iNaturalist profile or personal website. I still like to hear where you plan on using my photos!

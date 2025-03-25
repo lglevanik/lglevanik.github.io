@@ -8,7 +8,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: About
+        text: " "
       - research.qmd
       - teaching.qmd
       - cv.qmd
@@ -22,6 +22,8 @@ website:
 format:
   html:
     theme: cosmo
+    include-in-header:
+      - text: <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
     css: styles.css
     toc: true
     page-layout: full

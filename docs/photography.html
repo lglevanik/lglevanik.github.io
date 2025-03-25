@@ -66,6 +66,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -90,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text"> </span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./research.html"> 
@@ -98,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
-<span class="menu-text">Teaching &amp; Mentoring</span></a>
+<span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
@@ -123,9 +124,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
@@ -148,6 +147,124 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em;">
+<p><img src="gallery/lizard.jpg" alt="alligator lizard snuggled in chaparral yucca leaves" style="width: 100%; border-radius: 8px;"></p>
+<p><img src="gallery/checkerlily.jpg" alt="checker lily flowers against a dark background" style="width: 100%; border-radius: 8px;"></p>
+<p><img src="gallery/crabspid.jpg" alt="yellow crab spider on purple flowers" style="width: 100%; border-radius: 8px;"></p>
+<p><img src="gallery/gumbee.jpg" alt="bee on a yellow flower" style="width: 100%; border-radius: 8px;"></p>
+<p><img src="gallery/allenhumm.jpg" alt="allen's hummingbird" style="width: 100%; border-radius: 8px;"></p>
+<p><img src="gallery/chickennugget.jpeg" alt="a bat named chicken nugget that fell out of the shutters one time and spooked me" style="width: 100%; border-radius: 8px;"></p>
+<p><img src="gallery/carpbee.jpg" alt="valley carpenter bee visiting sweet pea flowers" style="width: 100%; border-radius: 8px;"></p>
+<p><img src="gallery/crabspid-white.jpeg" alt="white crab spider with arms (legs?) raised" style="width: 100%; border-radius: 8px;"></p>
+<p><img src="gallery/heth.jpg" alt="rotund hermit thrush with no thoughts behind those eyes" style="width: 100%; border-radius: 8px;"></p>
+</div>
+<p>When I’m not outside in the field for research, I’m outside as an avid nature photographer. I love both wildflowers and birds, and with the great diversity of both in California, I’m always pursuing something in season. For a sampling of my photography, explore my <a href="https://www.inaturalist.org/faves/lglevanik">iNaturalist highlights</a> or <a href="https://www.instagram.com/outdoor.naturalist">Instagram</a>.</p>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+  }
+
+  .text-block {
+    width: 50%; 
+    text-align: left;
+  }
+
+  .carousel-wrapper {
+    width: 50%;
+    text-align: right;
+  }
+
+  .carousel-inner img {
+    max-height: 400px;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+
+  .carousel-control-prev-icon, 
+  .carousel-control-next-icon {
+    width: 3rem;
+    height: 3rem;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+  }
+</style>
+<div class="container">
+<!-- Left Text Block -->
+<div class="text-block">
+<p><strong>My work has been featured by:</strong></p>
+<ul>
+<li>
+Los Angeles Times
+</li>
+<li>
+Natural History Museum of Los Angeles
+</li>
+<li>
+City of Los Angeles
+</li>
+<li>
+San Diego Audubon Society
+</li>
+<li>
+California Department of Fish &amp; Wildlife
+</li>
+<li>
+California Native Plant Society
+</li>
+<li>
+California Academy of Sciences
+</li>
+<li>
+U.S. Department of Fish &amp; Wildlife
+</li>
+<li>
+City Nature Challenge: Sacramento Region
+</li>
+<li>
+City Nature Challenge: San Francisco Bay Region
+</li>
+<li>
+UC Davis Arboretum and Public Garden
+</li>
+<li>
+Bay Nature Magazine
+</li>
+</ul>
+</div>
+<!-- Right Carousel -->
+<div class="carousel-wrapper">
+<div id="featuredCarousel" class="carousel slide" data-bs-ride="carousel">
+<!-- Image Container -->
+<div class="carousel-inner">
+<div class="carousel-item active">
+<p><img src="gallery/featured/cattenuata.jpeg" alt="Featured Image 1" class="d-block w-100"></p>
+</div>
+<div class="carousel-item">
+<p><img src="gallery/featured/checkermallow.jpg" alt="Featured Image 2" class="d-block w-100"></p>
+</div>
+<div class="carousel-item">
+<p><img src="gallery/featured/firepoppy.jpg" alt="Featured Image 3" class="d-block w-100"></p>
+</div>
+</div>
+<!-- Visible Previous Button -->
+<button class="carousel-control-prev" type="button" data-bs-target="#featuredCarousel" data-bs-slide="prev">
+<p><span class="visually-hidden">Previous</span></p>
+</button>
+<!-- Visible Next Button -->
+<button class="carousel-control-next" type="button" data-bs-target="#featuredCarousel" data-bs-slide="next">
+<p><span class="visually-hidden">Next</span></p>
+</button>
+</div>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+<p><strong>Print &amp; Digital Photo Licensing Policy</strong></p>
+<p>Any use of my photography (digitally or in print) is subject to copyright and may only be done with appropriate permission and a license. My photos on iNaturalist are licensed under CC-BY-NC 4.0, meaning you may share these photos non-commercially as long as you provide credit by including © Lauren Glevanik and a link back to either my iNaturalist profile or personal website. I still like to hear where you plan on using my photos, so contact me anyway!</p>
 
 
 
@@ -244,7 +361,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/laurenglevanik\.github\.io\/");
+      var filterRegex = new RegExp("https:\/\/lglevanik\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

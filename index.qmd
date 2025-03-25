@@ -5,9 +5,9 @@ toc: false
 
 about: 
   template: trestles
-  image: media/IMG_9750 copy.jpg
+  image: media/option-2.jpg
   image-shape: round
-  image-width: 20em
+  image-width: 18em
   links:
     - text: Email
       href: mailto::lglevanik@ucla.edu
