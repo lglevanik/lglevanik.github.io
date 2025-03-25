@@ -1,10 +1,11 @@
 ---
 title: "Lauren Glevanik"
+permalink: /about/
 
 about: 
-  template: solana
+  template: trestles
   image: media/IMG_9750 copy.jpg
-  image-shape: rounded
+  image-shape: round
   image-width: 20em
   links:
     - text: Email

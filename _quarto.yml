@@ -4,14 +4,20 @@ project:
 
 website:
   title: "Lauren Glevanik"
+  site-url: https://laurenglevanik.github.io/
   navbar:
     left:
       - href: index.qmd
+        text: About
       - research.qmd
       - teaching.qmd
       - cv.qmd
       - commsci.qmd
       - photography.qmd
+  page-footer:
+    center: 'Built with <a href="https://www.r-project.org/" target="_blank">
+              <img src="https://www.r-project.org/logo/Rlogo.png" width="20px" style="vertical-align: middle;">
+           </a> and <a href="https://quarto.org/">Quarto</a>'
 
 format:
   html:

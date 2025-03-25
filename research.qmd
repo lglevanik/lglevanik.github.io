@@ -1,6 +1,10 @@
 ---
 title: "Research"
+
+page-layout: full
 ---
+
+![](media/sticky.jpg){alt="Erodium sp. seed stuck to the head of a Grindelia sp." style="float: right; margin: 0 0 1em 1em;" width="400"}
 
 **Seed dispersal in annual grassland community assembly**
 
@@ -9,6 +13,8 @@ My dissertation focuses on the role of seed dispersal in community assembly in a
 My work asks **how do species-specific differences in seed dispersal influence biodiversity in this system?** Dispersal alters patterns of spatial aggregation, which can shape species interactions and local assembly. My research investigates these relationships between dispersal and community assembly, with the intent to inform seed-based habitat restoration plans. Better knowledge of seed movement is critical to predicting how plants might be able to track favorable conditions as climate change becomes more extreme, so dispersal studies are also necessary for identifying targets for seed banking ​and conservation.\
 \
 I conduct my research at UCLA and at Sedgwick Reserve (UC Natural Reserve System) in Santa Barbara County, CA. UCLA acknowledges our institution's presence on the traditional, ancestral and unceded territory of the Gabrielino/Tongva peoples, who are the traditional caretakers of Tovaangar (encompassing areas of the Los Angeles basin & Southern Channel Islands). Additionally, the Chumash peoples are the traditional caretakers of the land where my field research takes place at Sedgwick Reserve.
+
+![](media/vernal-pool.jpg){alt="Vernal pool in spring in Solano County, CA" style="float: left; margin: 2 2 0em 0em;" fig-align="left" width="500"}
 
 **Dispersal evolution and habitat specialization in California vernal pools**
 
@@ -19,6 +25,20 @@ In vernal pool environments, rainfall varies year over year and the pools fill t
 This project investigates the relationships between habitat specialization, differences in landscape patches and suitability, and dispersal strategies in three species of *Lasthenia (*goldfields) that prefer different submergence depths.\
 \
 For thousands of years, the land where Jepson Prairie exists today has been the home of Patwin people, including the Yocha Dehe Wintun Nation currently. The Patwin people have remained committed to the stewardship of this land over many centuries. It has been cherished and protected as elders have instructed younger generations. I am honored and grateful to have participated in research here, and to continue to share my enthusiasm for the land's natural beauty through the docent program.
+
+:::::: grid
+::: g-col-6
+![](/media/seedling-tomato.jpg)
+:::
+
+::: g-col-6
+![](/media/davis-urc.jpg)
+:::
+
+::: g-col-12
+![](/media/hmc-field.jpg)
+:::
+::::::
 
 **Genetics & plant breeding in tomatoes**
 
