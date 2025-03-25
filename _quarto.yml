@@ -1,10 +1,10 @@
 project:
   type: website
   output-dir: docs
-
+ 
 website:
   title: "Lauren Glevanik"
-  site-url: https://laurenglevanik.github.io/
+  site-url: https://lglevanik.github.io/
   navbar:
     left:
       - href: index.qmd
