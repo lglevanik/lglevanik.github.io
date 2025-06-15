@@ -81,7 +81,7 @@ When I’m not outside in the field for research, I'm outside as an avid nature 
 </style>
 ```
 
-:::::::::: container
+::::::::::::::::::::::: container
 <!-- Left Text Block -->
 
 ::: text-block
@@ -118,84 +118,90 @@ When I’m not outside in the field for research, I'm outside as an avid nature 
 
 <!-- Right Carousel -->
 
-:::::::: carousel-wrapper
-::::::: {#featuredCarousel .carousel .slide data-bs-ride="carousel"}
-
+::::::::::::::::::::: carousel-wrapper
+:::::::::::::::::::: {#featuredCarousel .carousel .slide data-bs-ride="carousel"}
 <!-- Image Container -->
 
-:::::: carousel-inner
-::: carousel-item
-<img src="gallery/featured/milkvetch.jpg" alt="Jepson's milkvetch flower in bloom" class="d-block w-100"/>
-<div class="carousel-caption d-none d-md-block">
-  <p>Jepson's milkvetch (Astragalus rattanii var. jepsonianus) featured by California Native Plant Society.</p>
-</div>
-:::
+::::::::::::::::::: carousel-inner
+:::: carousel-item
+<img src="gallery/featured/milkvetch.jpg" alt="Jepson&apos;s milkvetch flower in bloom" class="d-block w-100"/>
 
-::: {.carousel-item .active}
-<img src="gallery/featured/metalmark.jpg" alt="Behr's metalmark butterfly on California buckwheat" class="d-block w-100"/>
-<div class="carousel-caption d-none d-md-block">
-  <p>Behr's metalmark (Apodemia virgulti) featured in "Sketches" published by the San Diego Audubon Society; additionally featured by the City of Los Angeles.</p>
-</div>
+::: {.carousel-caption .d-none .d-md-block}
+<p>Jepson's milkvetch (Astragalus rattanii var. jepsonianus) featured by California Native Plant Society.</p>
 :::
+::::
 
-::: carousel-item
-<img src="gallery/featured/checkermallow.jpg" alt="Keck's checkerbloom flower in bloom" class="d-block w-100"/>
-<div class="carousel-caption d-none d-md-block">
-  <p>Keck's checkerbloom (Sidalcea keckii) featured by the U.S. Fish & Wildlife Service.</p>
-</div>
+:::: {.carousel-item .active}
+<img src="gallery/featured/metalmark.jpg" alt="Behr&apos;s metalmark butterfly on California buckwheat" class="d-block w-100"/>
+
+::: {.carousel-caption .d-none .d-md-block}
+<p>Behr's metalmark (Apodemia virgulti) featured in "Sketches" published by the San Diego Audubon Society; additionally featured by the City of Los Angeles.</p>
 :::
+::::
 
-::: carousel-item
+:::: carousel-item
+<img src="gallery/featured/checkermallow.jpg" alt="Keck&apos;s checkerbloom flower in bloom" class="d-block w-100"/>
+
+::: {.carousel-caption .d-none .d-md-block}
+<p>Keck's checkerbloom (Sidalcea keckii) featured by the U.S. Fish & Wildlife Service.</p>
+:::
+::::
+
+:::: carousel-item
 <img src="gallery/featured/firepoppy.jpg" alt="Fire poppy flower in bloom" class="d-block w-100"/>
-<div class="carousel-caption d-none d-md-block">
-  <p>Fire poppy (Papaver californicum), featured by the Natural History Museum of LA County.</p>
-</div>
-:::
 
-::: carousel-item
+::: {.carousel-caption .d-none .d-md-block}
+<p>Fire poppy (Papaver californicum), featured by the Natural History Museum of LA County.</p>
+:::
+::::
+
+:::: carousel-item
 <img src="gallery/featured/riverotter.jpg" alt="Four river otters perched on a bank with a fifth in the background" class="d-block w-100"/>
-<div class="carousel-caption d-none d-md-block">
-  <p>North American river otter (Lotra canadensis), featured in "The Conservationist" published by the Forest Preserve District of DuPage County, IL.</p>
-</div>
-:::
 
-::: carousel-item
+::: {.carousel-caption .d-none .d-md-block}
+<p>North American river otter (Lotra canadensis), featured in "The Conservationist" published by the Forest Preserve District of DuPage County, IL.</p>
+:::
+::::
+
+:::: carousel-item
 <img src="gallery/featured/ghow.png" alt="Great horned owl looking into the distance" class="d-block w-100"/>
-<div class="carousel-caption d-none d-md-block">
-  <p>Great horned owl (Bubo virginianus) featured by UC Davis.</p>
-</div>
-:::
 
-::: carousel-item
+::: {.carousel-caption .d-none .d-md-block}
+<p>Great horned owl (Bubo virginianus) featured by UC Davis.</p>
+:::
+::::
+
+:::: carousel-item
 <img src="gallery/featured/gbhe.jpg" alt="Great blue heron eating a vole" class="d-block w-100"/>
-<div class="carousel-caption d-none d-md-block">
-  <p>Great blue heron (Ardea herodias) and California vole (Microtus californicus) featured by UC Davis and City Nature Challenge Sacramento.</p>
-</div>
-:::
 
-::: carousel-item
-<img src="gallery/featured/rwbb.jpg" alt="Red-winged blackbird singing while perched on a reed" class="d-block w-100"/>
-<div class="carousel-caption d-none d-md-block">
-  <p>Red-winged blackbird (Agelaius phoeniceus) featured in Bay Nature magazine.</p>
-</div>
+::: {.carousel-caption .d-none .d-md-block}
+<p>Great blue heron (Ardea herodias) and California vole (Microtus californicus) featured by UC Davis and City Nature Challenge Sacramento.</p>
 :::
-::::::
+::::
+
+:::: carousel-item
+<img src="gallery/featured/rwbb.jpg" alt="Red-winged blackbird singing while perched on a reed" class="d-block w-100"/>
+
+::: {.carousel-caption .d-none .d-md-block}
+<p>Red-winged blackbird (Agelaius phoeniceus) featured in Bay Nature magazine.</p>
+:::
+::::
+:::::::::::::::::::
 
 <!-- Visible Previous Button -->
+
 <button class="carousel-control-prev" type="button" data-bs-target="#featuredCarousel" data-bs-slide="prev">
-  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-  <span class="sr-only"></span>
+
 </button>
 
 <!-- Visible Next Button -->
-<button class="carousel-control-next" type="button" data-bs-target="#featuredCarousel" data-bs-slide="next">
-  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-  <span class="sr-only"></span>
-</button>
 
-:::::::
-::::::::
-::::::::::
+<button class="carousel-control-next" type="button" data-bs-target="#featuredCarousel" data-bs-slide="next">
+
+</button>
+::::::::::::::::::::
+:::::::::::::::::::::
+:::::::::::::::::::::::
 
 ```{=html}
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>

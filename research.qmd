@@ -15,7 +15,7 @@ Seed dispersal allows plants to travel in both space and time; dispersal alters 
 
 Better knowledge of seed movement is critical to understanding how and why biodiverse communities persist. This work informs further research into the mechanisms of biodiversity maintenance, but can also be applied in range expansion modeling, seed-based restoration designs, and identifying target plants for seed banking conservation.
 
-I conduct my research at UCLA and at Sedgwick Reserve (UC Natural Reserve System) in Santa Barbara County, CA. UCLA acknowledges our institution's presence on the traditional, ancestral and unceded territory of the Gabrielino/Tongva peoples, who are the traditional caretakers of Tovaangar (encompassing areas of the Los Angeles basin & Southern Channel Islands). Additionally, the Chumash peoples are the traditional caretakers of the land where my field research takes place at Sedgwick Reserve.
+I conduct my research with [Dr. Nathan Kraft](https://sites.lifesci.ucla.edu/eeb-kraft/)'s plant community ecology research group at UCLA and at Sedgwick Reserve (UC Natural Reserve System) in Santa Barbara County, CA. UCLA acknowledges our institution's presence on the traditional, ancestral and unceded territory of the Gabrielino/Tongva peoples, who are the traditional caretakers of Tovaangar (encompassing areas of the Los Angeles basin & Southern Channel Islands). Additionally, the Chumash peoples are the traditional caretakers of the land where my field research takes place at Sedgwick Reserve.
 
 ![](media/vernal-pool.jpg){alt="Vernal pool in spring in Solano County, CA" style="float: left; margin: 0.5cm 0.5cm 0em 0; border-radius: 8px;" fig-align="left" width="500"}
 
@@ -36,11 +36,11 @@ For thousands of years, the land where Jepson Prairie exists today has been the 
 :::
 
 ::: g-col-6
-<img src="media/davis-urc.jpg" alt="baby Lauren presenting her undergraduate research poster at UC Davis' Undergraduate Research Symposium" style="width: 100%; border-radius: 8px;"/>
+<img src="media/davis-urc.jpg" alt="baby Lauren presenting her undergraduate research poster at UC Davis&apos; Undergraduate Research Symposium" style="width: 100%; border-radius: 8px;"/>
 :::
 
 ::: g-col-12
-<img src="media/hmc-field.jpg" alt="Lauren & crew planting an experimental field of hybrid tomatoes" style="width: 100%; border-radius: 8px;"/>
+<img src="media/hmc-field.jpg" alt="Lauren &amp; crew planting an experimental field of hybrid tomatoes" style="width: 100%; border-radius: 8px;"/>
 :::
 ::::::
 :::::::
