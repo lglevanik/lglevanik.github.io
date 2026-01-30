@@ -18,9 +18,6 @@ about:
     - text: CV
       href: media/cv_2025.pdf
       icon: file-earmark-text
-    # - text: GitHub
-    #   href: https://github.com/lglevanik
-    #   icon: github
 ---
 
 ### Hey there!
