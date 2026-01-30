@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 12-01-2025
+date: 1-30-2026
 published-title: Last updated
 ---
 
