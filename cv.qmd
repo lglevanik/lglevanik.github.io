@@ -1,10 +1,10 @@
 ---
 title: "CV"
-date: 1-30-2026
+date: 03-07-2026
 published-title: Last updated
 ---
 
-<iframe src="media/cv_2025.pdf" width="100%" height="600px">
+<iframe src="media/cv_2026.pdf" width="100%" height="600px">
 
 </iframe>
 
