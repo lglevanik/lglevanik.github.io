@@ -10,14 +10,11 @@ about:
   image-width: 18em
   links:
     - text: Email
-      href: mailto:lglevanik@ucla.edu
+      href: mailto::lglevanik@ucla.edu
       icon: envelope
     - text: iNaturalist
       href: https://www.inaturalist.org/people/lglevanik
       icon: feather
-    - text: CV
-      href: /media/cv_2026.pdf
-      icon: file-earmark-text
 ---
 
 ### Hey there!
