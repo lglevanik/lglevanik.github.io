@@ -15,6 +15,9 @@ about:
     - text: iNaturalist
       href: https://www.inaturalist.org/people/lglevanik
       icon: feather
+    - text: CV
+      href: media/cv_2026
+      icon: file-earmark-text
 ---
 
 ### Hey there!
