@@ -5,7 +5,7 @@ toc: false
 
 about: 
   template: trestles
-  image: media/option-6.jpeg
+  image: media/option-5.jpg
   image-shape: round
   image-width: 18em
   links:
