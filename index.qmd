@@ -5,7 +5,7 @@ toc: false
 
 about: 
   template: trestles
-  image: media/option-5.jpg
+  image: media/option-2.jpg
   image-shape: round
   image-width: 18em
   links:
@@ -22,6 +22,6 @@ about:
 
 ### Hey there!
 
-My name is Lauren and I'm a Ph.D. candidate in the Department of Ecology and Evolutionary Biology at UCLA. My research focuses on how seed dispersal shapes plant communities. I combine field data with ecological modeling to investigate how species-specific dispersal influences biodiversity locally and across landscapes.\
-\
-I earned my B.S. in Plant Biology from UC Davis with minors in Professional Writing and Ecology, Evolution, & Biodiversity. There, I also completed my California Naturalist certification, which kickstarted my love for community science. You can find me documenting every organism I see on iNaturalist, eBird, or a number of other community science platforms.
+My name is Lauren and I'm a Ph.D. candidate in the Department of Ecology and Evolutionary Biology at UCLA, where I study how species-specific differences in dispersal influence community assembly & biodiversity in a model annual grassland. My ongoing projects combine field experiments, functional trait data, and mechanistic modeling to explore variation in dispersal among species and determine how feedbacks between the environment, plant performance, and dispersal shape plant communities.
+
+Prior to my graduate research, I earned my B.S. in Plant Biology from UC Davis with minors in Professional Writing and Ecology, Evolution, & Biodiversity. There, I also completed my California Naturalist certification, which kickstarted my love for community science. You can find me documenting every organism I see on iNaturalist, eBird, or a number of other community science platforms.

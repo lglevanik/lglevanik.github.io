@@ -7,7 +7,7 @@ toc: false
 
 Community science (or participatory science) is a collaborative approach to answering scientific questions that engages local communities to collect, analyze, or interpret data. It's an opportunity to contribute to new discoveries and deepen our understanding of the world, regardless of your background or experience. There are many projects & campaigns that rely on volunteer contributors -- some global, some local -- so there are lots of ways to get involved.
 
-​If you’re new to community science and would like to find projects in need of participants, start with [SciStarter](https://scistarter.org/): this is a great catalog of projects to filter by your interests, resources, and abilities. My favorites to contribute to are iNaturalist, CalFlora, and eBird.
+The majority of my contributions to are iNaturalist, CalFlora, and eBird:
 
 :::::: {style="display: flex; justify-content: space-between;"}
 ::: {style="width: 30%; text-align: center;"}
@@ -35,6 +35,8 @@ Community science (or participatory science) is a collaborative approach to answ
 I am fairly active on iNaturalist, which is a community science platform that collects biodiversity data points from around the globe. Observations that have a specified location, date, time, photographic (or sound) evidence, and multiple species-level identifications from the community are considered "Research Grade." These data points are added to other biodiversity databases like GBIF, where they've informed [thousands of published studies](https://help.inaturalist.org/en/support/solutions/articles/151000170341-how-are-inaturalist-data-used-for-research-).
 
 For a California-focused introduction to natural history, I have enjoyed the California Naturalist course offered through the [UC Environmental Stewards](https://ucanr.edu/statewide-program/uc-environmental-stewards) program and their many partner organizations across the state. I received my California Naturalist certification in 2019, and it provided a great introduction to both community science and local natural history.
+
+​If you’re new to community science and would like to find projects in need of participants, start with [SciStarter](https://scistarter.org/): this is a great catalog of projects to filter by your interests, resources, and abilities.
 
 One of my favorite ways of sharing California's gorgeous flora with my community is leading natural history talks and wildflower tours as a docent at Jepson Prairie Preserve in Solano County, CA. Docent-led tours of the vernal pools run each spring on Saturdays and Sundays from mid-March through Mother's Day. Learn more about the preserve and attending a tour [here](https://solanolandtrust.org/jepson-prairie).
 
