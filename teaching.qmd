@@ -2,17 +2,7 @@
 title: "Teaching"
 ---
 
-As a teaching fellow in Ecology & Evolutionary Biology, my experience encompasses large-enrollment introductory lectures, 20-student discussion sections, and one-on-one research mentorship. Across these different settings, my overall philosophy remains grounded in fostering an inclusive, engaging, and student-led learning environment that builds self-efficacy in science and prepares students for a wide range of careers in biology. \
-**​**\
-**​Education Courses, Training, and Certification**\
-Center for the Integration of Research, Teaching, and Learning (CIRTL) Practitioner Certification, Spring 2026\
-Designing a Teaching as Research Project, Winter 2026\
-Research as a High-Impact Practice in STEM Education (CIRTL), Fall 2025\
-Advanced Learning through Evidence-Based STEM Teaching (CIRTL), Summer 2025\
-CIRTL Associate Certification, CIRTL, Winter 2025\
-Introduction to Evidence-Based Undergraduate Teaching, UCLA GRAD PD 496A, Fall 2024\
-Entering Mentoring Training (Center for the Improvement of Mentored Experiences in Research), UCLA MOL BIO 300, Spring 2024\
-Preparation for College-Level Teaching in Life Sciences, UCLA LS 495, Spring 2023\
+My teaching & mentoring philosophy is grounded in fostering an inclusive, engaging, and student-led learning environment that builds self-efficacy in science and prepares students for a wide range of careers in biology.
 
 **Teaching Experience**\
 *UCLA*\
@@ -24,10 +14,19 @@ Preparation for College-Level Teaching in Life Sciences, UCLA LS 495, Spring 2
 2024     Teaching Assistant, EEB 100: Introduction to Ecology & Animal Behavior\
 2023     Teaching Assistant, EEB 161: Plant Ecology\
 2023     Teaching Assistant, EEB 100: Introduction to Ecology & Animal Behavior\
-\
 *UC Davis*\
-2018 Student Teaching Assistant, EDU 198: Foundations for University Success\
+2018 Teaching Assistant, EDU 198: Foundations for University Success\
 2017 Aggie Connections Mentor, BIS 5: Exploring Biological Sciences
+
+**​Education Courses, Training, and Certification**\
+Center for the Integration of Research, Teaching, and Learning (CIRTL) Practitioner Certification, Spring 2026\
+Designing a Teaching as Research Project (CIRTL), Winter 2026\
+Research as a High-Impact Practice in STEM Education (CIRTL), Fall 2025\
+Advanced Learning through Evidence-Based STEM Teaching (CIRTL), Summer 2025\
+CIRTL Associate Certification, CIRTL, Winter 2025\
+Introduction to Evidence-Based Undergraduate Teaching, UCLA GRAD PD 496A, Fall 2024\
+Entering Mentoring Training (Center for the Improvement of Mentored Experiences in Research), UCLA MOL BIO 300, Spring 2024\
+Preparation for College-Level Teaching in Life Sciences, UCLA LS 495, Spring 2023
 
 **Mentoring Experience**\
 *UCLA*\
@@ -39,7 +38,6 @@ Preparation for College-Level Teaching in Life Sciences, UCLA LS 495, Spring 2
 
 2023 - Present    Peer Mentor, UCLA EEB Graduate Peer Mentorship Program (3 students)\
 2024 - Present    Scientist Mentor, Planting Science (6 middle and high school classrooms)\
-\
 *UC Davis*\
 2018 - 2020    Peer Mentor, BioLaunch / Mentor Collective\
 2018           Classroom Instructor & Small Group Mentor, UC Davis Sprout Up\
