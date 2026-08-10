@@ -1,54 +1,229 @@
 ---
 title: "Research"
-
-page-layout: full
-toc: false
 ---
 
-![](media/sticky.jpg){alt="Erodium sp. seed stuck to the head of a Grindelia sp." style="float: right; margin: 0.5cm 0 1em 1em; border-radius: 8px;" width="400"}
+<style>
+.research-section {
+  margin: 4rem 0;
+  padding-bottom: 4rem;
+  border-bottom: 1px solid #d9d9d9;
+}
 
+.research-section:last-child {
+  border-bottom: none;
+}
+
+.research-section > .columns {
+  display: grid !important;
+  align-items: stretch;
+  width: 100%;
+  margin: 0;
+}
+
+.research-section > .columns:has(.image-column) {
+  grid-template-columns: 58% 42%;
+}
+
+.research-section > .columns:has(.image-column-left) {
+  grid-template-columns: 42% 58%;
+}
+
+.research-section > .columns > .column {
+  width: auto !important;
+  margin: 0;
+}
+
+.image-column {
+  display: flex !important;
+  align-items: stretch;
+  padding-left: 2rem;
+}
+
+.image-column-left {
+  display: flex !important;
+  align-items: stretch;
+  padding-right: 2rem;
+}
+
+.image-column > p,
+.image-column-left > p {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.image-column > p > img.research-image,
+.image-column-left > p > img.research-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 8px;
+}
+
+.photo-grid {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  gap: 1.25rem;
+}
+
+.photo-grid-top {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  min-height: 0;
+}
+
+.photo-grid img.research-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 8px;
+}
+
+.photo-grid-top img.research-image {
+  aspect-ratio: 1 / 1;
+}
+
+.photo-grid > img.research-image {
+  aspect-ratio: auto;
+  min-height: 0;
+}
+
+@media (max-width: 768px) {
+
+  .research-section {
+    margin: 2.5rem 0;
+    padding-bottom: 2.5rem;
+  }
+
+  .research-section > .columns,
+  .research-section > .columns:has(.image-column),
+  .research-section > .columns:has(.image-column-left) {
+    display: block !important;
+  }
+
+  .image-column,
+  .image-column-left {
+    padding: 1rem 0 0 0;
+  }
+
+  .image-column > p,
+  .image-column-left > p {
+    height: auto;
+  }
+
+  .image-column > p > img.research-image,
+  .image-column-left > p > img.research-image {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+  }
+
+  .photo-grid {
+    height: auto;
+  }
+
+  .photo-grid-top {
+    margin-bottom: 1.25rem;
+  }
+
+  .photo-grid img.research-image {
+    height: auto;
+  }
+}
+</style>
+
+
+::: {.research-section}
+
+:::: {.columns}
+
+::: {.column width="58%"}
 ### Seed dispersal in annual grassland community assembly
 
-My dissertation investigates how species-specific seed dispersal influences community assembly in a model annual grassland in southern California. In this Mediterranean-climate system, mild winters and hot, dry summers require annual plants to complete their entire life cycle from germination to seed production within just a few months. This condensed growing season creates intense competition for limited resources, yet these grasslands support remarkably diverse plant communities.
+My dissertation investigates how species-specific seed dispersal influences plant community assembly in a model annual grassland in southern California. Seed dispersal shapes where and when plants establish; it determines the abiotic conditions and competitive environments that seeds encounter upon arrival and in turn influences recruitment, growth, and survival.
 
-Seed dispersal shapes where and when plants establish; it determines the abiotic conditions and competitive environment that seeds encounter upon arrival, influencing recruitment, growth, and survival. Seed persistence in the soil also allows species to delay germination until conditions become favorable. Together, these processes help determine how plant communities assemble each year.
+My ongoing projects quantify variation in seed dispersal across a diverse community of annual plants, evaluate mechanistic approaches for predicting species-specific dispersal, and explore how feedbacks among the local environment, plant performance, and dispersal influence community dynamics and species coexistence.
 
-Understanding how seeds move through landscapes is essential for understanding how and why biodiverse communities persist. This research advances our understanding of the ecological mechanisms that promote species coexistence while also informing applications such as habitat restoration, range expansion modeling under climate change, and conservation through seed banking.
+I work with [Dr. Nathan Kraft](https://sites.lifesci.ucla.edu/eeb-kraft/)'s plant community ecology lab at UCLA and at Sedgwick Reserve (UC Natural Reserve System) in Santa Barbara County, CA. UCLA acknowledges its presence on the traditional, ancestral and unceded territory of the Gabrielino/Tongva peoples, who are the traditional caretakers of Tovaangar (encompassing areas of the Los Angeles basin & Southern Channel Islands). The Chumash peoples are the traditional caretakers of the land where our field research takes place at Sedgwick Reserve.
 
-My ongoing projects include quantifying seed dispersal across this diverse community of species, evaluating mechanistic approaches for estimating species-specific dispersal, and exploring how feedbacks between the local environment, plant performance, and dispersal influence community dynamics & species coexistence.
+:::
 
-I conduct my dissertation research with [Dr. Nathan Kraft](https://sites.lifesci.ucla.edu/eeb-kraft/)'s plant community ecology research group at UCLA and at Sedgwick Reserve (UC Natural Reserve System) in Santa Barbara County, CA. UCLA acknowledges our institution's presence on the traditional, ancestral and unceded territory of the Gabrielino/Tongva peoples, who are the traditional caretakers of Tovaangar (encompassing areas of the Los Angeles basin & Southern Channel Islands). The Chumash peoples are the traditional caretakers of the land where our field research takes place at Sedgwick Reserve.
+::: {.column width="42%" .image-column}
 
-![](media/vernal-pool.jpg){alt="Vernal pool in spring in Solano County, CA" fig-align="left" style="float: left; margin: 0.5cm 0.5cm 0em 0; border-radius: 8px;" width="490"}
+![](media/grass_mtn_saco.jpeg){.research-image fig-alt="Erodium sp. seed stuck to the head of a Grindelia sp."}
 
+:::
+
+::::
+
+:::
+
+
+::: {.research-section}
+
+:::: {.columns}
+
+::: {.column width="42%" .image-column-left}
+
+![](media/vernal-pool.jpg){.research-image fig-alt="Vernal pool in spring in Solano County, California"}
+
+:::
+
+::: {.column width="58%"}
 ### Dispersal evolution and habitat specialization in California vernal pools
 
-Prior to my PhD, I worked as a field technician in Dr. Nancy Emery's research group at the University of Colorado Boulder on a project investigating evolutionary feedbacks between seed dispersal and habitat specialization. \
-\
-California vernal pools are highly dynamic ecosystems. Annual variation in rainfall changes the depth and duration of seasonal flooding on impermeable hardpan soils, causing habitat quality to shift from year to year. Species that disperse seeds across a wider range of microsites may be more likely to encounter suitable conditions in future years, whereas species that keep seeds clustered risk losing entire cohorts if local conditions become unfavorable. This project investigated how habitat specialization, landscape heterogeneity, and seed dispersal strategies interact in three species of *Lasthenia* (goldfields) that occupy different positions along the vernal pool flooding gradient.\
-\
-For thousands of years, the land where Jepson Prairie exists today has been the home of Patwin people, including the present-day Yocha Dehe Wintun Nation. The Patwin people have cared for and stewarded these lands across generations.
+Prior to my PhD, I worked as a field technician in Dr. Nancy Emery's research group at the University of Colorado Boulder on a project investigating evolutionary feedbacks between seed dispersal and habitat specialization.
 
-::::::: {style="float: right; width: 50%; margin-left: 1em;"}
-:::::: grid
-::: g-col-6
-<img src="media/seedling-tomato.jpg" alt="tomato seedlings growing in a tray" style="width: 100%; border-radius: 8px;"/>
+California vernal pools are highly dynamic ecosystems. Annual variation in rainfall changes the depth and duration of seasonal flooding on impermeable hardpan soils, causing habitat quality to shift from year to year. Species that disperse seeds widely may be more likely to encounter suitable conditions in future years, whereas species that keep seeds clustered risk losing entire cohorts if local conditions become unfavorable. This project investigated how habitat specialization, landscape heterogeneity, and seed dispersal strategies interact in three species of *Lasthenia* (goldfields) that occupy different positions along the vernal pool flooding gradient.
+
+For thousands of years, the land where Jepson Prairie exists today has been the home of Patwin people, including the present-day Yocha Dehe Wintun Nation.
+
 :::
 
-::: g-col-6
-<img src="media/davis-urc.jpg" alt="baby Lauren presenting her undergraduate research poster at UC Davis&apos; Undergraduate Research Symposium" style="width: 100%; border-radius: 8px;"/>
+::::
+
 :::
 
-::: g-col-12
-<img src="media/hmc-field.jpg" alt="Lauren &amp; crew planting an experimental field of hybrid tomatoes" style="width: 100%; border-radius: 8px;"/>
-:::
-::::::
-:::::::
 
+::: {.research-section}
+
+:::: {.columns}
+
+::: {.column width="58%"}
 ### Genetics & plant breeding in tomatoes
 
-My early research experience focused on genetics and plant breeding, specifically in tomatoes. \
-\
-As an undergraduate at UC Davis, I investigated the genetic basis of leaf shape and its relationship to fruit sugar content in heirloom tomatoes. Plants with broad, simple leaves (a characteristic known as potato leaf morph) were hypothesized to produce sweeter fruit than plants with highly dissected leaves because of differences in photosynthetic capacity. Using CRISPR-Cas9 gene editing, we mutated the gene controlling potato leaf morph and measured the resulting changes in leaf architecture and fruit sugar content. Depending on the type and size of the mutation, leaf phenotypes and sugar content varied widely. Ongoing research investigates how leaf shape contributes to sugar content, with the goal of identifying a practical breeding target for improving fruit quality.\
-\
-Following my time at UC Davis, I joined the tomato breeding program at a commercial vegetable seed company. I conducted independent research projects for both the fresh market and processing market tomato teams in addition to working with the ongoing seed, greenhouse, and field projects both on-site and in field trials across California's central valley.
+My early research experience focused on genetics and plant breeding, specifically in tomatoes.
+
+As an undergraduate at UC Davis, I investigated the genetic basis of leaf shape and its relationship to fruit sugar content in heirloom tomatoes. Plants with broad, simple leaves (a characteristic known as potato leaf morph) were hypothesized to produce sweeter fruit than plants with highly dissected leaves because of differences in photosynthetic capacity. Using CRISPR-Cas9 gene editing, we mutated the gene controlling potato leaf morph and measured the resulting changes in leaf architecture and fruit sugar content. Depending on the type and size of the mutation, leaf phenotypes and sugar content varied widely. Ongoing research investigates how leaf shape contributes to sugar content, with the goal of identifying a practical breeding target for improving fruit quality.
+
+Following my time at UC Davis, I joined the tomato breeding program at a commercial vegetable seed company. I conducted independent research projects for both the fresh market and processing market tomato teams in addition to working with the ongoing seed, greenhouse, and field projects both on-site and in field trials across California's Central Valley.
+
+:::
+
+::: {.column width="42%" .image-column}
+
+<div class="photo-grid">
+
+<div class="photo-grid-top">
+
+![](media/seedling-tomato.jpg){.research-image fig-alt="tomato seedlings growing in a tray"}
+
+![](media/davis-urc.jpg){.research-image fig-alt="Lauren presenting her undergraduate research poster at UC Davis Undergraduate Research Symposium"}
+
+</div>
+
+![](media/hmc-field.jpg){.research-image fig-alt="Lauren & crew planting an experimental field of hybrid tomatoes"}
+
+</div>
+
+:::
+
+::::
+
+:::
