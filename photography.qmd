@@ -97,6 +97,14 @@ When I’m not outside in the field for research, I'm outside as an avid nature 
 
 <li>San Diego Audubon Society</li>
 
+<li>Bay Nature Magazine</li>
+
+<li>UC Davis Arboretum and Public Garden</li>
+
+<li>City Nature Challenge: Sacramento Region</li>
+
+<li>City Nature Challenge: San Francisco Bay Region</li>
+
 <li>California Department of Fish & Wildlife</li>
 
 <li>California Native Plant Society</li>
@@ -107,13 +115,7 @@ When I’m not outside in the field for research, I'm outside as an avid nature 
 
 <li>USA National Phenology Network</li>
 
-<li>City Nature Challenge: Sacramento Region</li>
-
-<li>City Nature Challenge: San Francisco Bay Region</li>
-
-<li>UC Davis Arboretum and Public Garden</li>
-
-<li>Bay Nature Magazine</li>
+<li>[Plants of the Pacific Coast](https://www.amazon.com/dp/B0FT658KVZ) field guide</li>
 
 </ul>
 :::
@@ -138,6 +140,14 @@ When I’m not outside in the field for research, I'm outside as an avid nature 
 
 ::: {.carousel-caption .d-none .d-md-block}
 <p>Behr's metalmark (Apodemia virgulti) featured in "Sketches" published by the San Diego Audubon Society; additionally featured by the City of Los Angeles.</p>
+:::
+::::
+
+:::: carousel-item
+<img src="gallery/featured/cattenuata.jpeg" alt="Valley tassels (Castilleja attenuata) flower in bloom" class="d-block w-100"/>
+
+::: {.carousel-caption .d-none .d-md-block}
+<p>Valley Tassels (Castilleja attenuata) featured in the Plants of the Pacific Coast field guide from CanScience Books.</p>
 :::
 ::::
 

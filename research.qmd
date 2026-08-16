@@ -146,7 +146,11 @@ title: "Research"
 ::: {.column width="58%"}
 ### Seed dispersal in annual grassland community assembly
 
+<<<<<<< HEAD
 My dissertation investigates how species-specific seed dispersal influences plant community assembly in a model annual grassland in southern California. Seed dispersal shapes where and when plants establish; it determines the abiotic conditions and competitive environments that seeds encounter upon arrival and in turn influences recruitment, growth, and survival.
+=======
+My dissertation investigates how species-specific seed dispersal influences plant community assembly in a model annual grassland in southern California. Seed dispersal shapes where and when plants establish, determining the abiotic conditions and competitive environments that seeds encounter upon arrival and, in turn, influencing recruitment, growth, and survival.
+>>>>>>> 25b1eceb6d3b2c1594ffcd23bc612fa148ea7f7a
 
 My ongoing projects quantify variation in seed dispersal across a diverse community of annual plants, evaluate mechanistic approaches for predicting species-specific dispersal, and explore how feedbacks among the local environment, plant performance, and dispersal influence community dynamics and species coexistence.
 
