@@ -2,6 +2,8 @@
 title: "CV"
 date: 07-28-2026
 published-title: Last updated
+format: html
+toc: false
 ---
 
 <iframe src="media/cv_2026.pdf" width="100%" height="600px">
