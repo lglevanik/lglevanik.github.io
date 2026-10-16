@@ -6,6 +6,7 @@ My teaching & mentoring philosophy is grounded in fostering an inclusive, engagi
 
 **Teaching Experience**\
 *UCLA*\
+2026     Associate Instructor, EEB 161L: Plant Ecology Laboratory ([lab tools](https://lglevanik.github.io/wald_app.html))\
 2026     Teaching Fellow, EEB 187: Advances in Animal Ecology and Evolution\
 2025     Teaching Fellow, EEB 100L: Introduction to Ecology & Animal Behavior Laboratory\
 2025     Teaching Associate, EEB 162: Plant Physiology\
@@ -17,16 +18,6 @@ My teaching & mentoring philosophy is grounded in fostering an inclusive, engagi
 *UC Davis*\
 2018 Teaching Assistant, EDU 198: Foundations for University Success\
 2017 Aggie Connections Mentor, BIS 5: Exploring Biological Sciences
-
-**​Education Courses, Training, and Certification**\
-Center for the Integration of Research, Teaching, and Learning (CIRTL) Practitioner Certification, Spring 2026\
-Designing a Teaching as Research Project (CIRTL), Winter 2026\
-Research as a High-Impact Practice in STEM Education (CIRTL), Fall 2025\
-Advanced Learning through Evidence-Based STEM Teaching (CIRTL), Summer 2025\
-CIRTL Associate Certification, CIRTL, Winter 2025\
-Introduction to Evidence-Based Undergraduate Teaching, UCLA GRAD PD 496A, Fall 2024\
-Entering Mentoring Training (Center for the Improvement of Mentored Experiences in Research), UCLA MOL BIO 300, Spring 2024\
-Preparation for College-Level Teaching in Life Sciences, UCLA LS 495, Spring 2023
 
 **Mentoring Experience**\
 *UCLA*\
@@ -42,3 +33,13 @@ Preparation for College-Level Teaching in Life Sciences, UCLA LS 495, Spring 2
 2018 - 2020    Peer Mentor, BioLaunch / Mentor Collective\
 2018           Classroom Instructor & Small Group Mentor, UC Davis Sprout Up\
 2017 - 2018    Peer Mentor, First-Year Aggie Connections
+
+**​Education Courses, Training, and Certification**\
+Center for the Integration of Research, Teaching, and Learning (CIRTL) Practitioner Certification, Spring 2026\
+Designing a Teaching as Research Project (CIRTL), Winter 2026\
+Research as a High-Impact Practice in STEM Education (CIRTL), Fall 2025\
+Advanced Learning through Evidence-Based STEM Teaching (CIRTL), Summer 2025\
+CIRTL Associate Certification, CIRTL, Winter 2025\
+Introduction to Evidence-Based Undergraduate Teaching, UCLA GRAD PD 496A, Fall 2024\
+Entering Mentoring Training (Center for the Improvement of Mentored Experiences in Research), UCLA MOL BIO 300, Spring 2024\
+Preparation for College-Level Teaching in Life Sciences, UCLA LS 495, Spring 2023
