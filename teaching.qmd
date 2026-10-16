@@ -6,6 +6,7 @@ My teaching & mentoring philosophy is grounded in fostering an inclusive, engagi
 
 **Teaching Experience**\
 *UCLA*\
+2026     Associate Instructor, EEB 161L: Plant Ecology Laboratory ([lab tools](https://lglevanik.github.io/wald_app.html))\
 2026     Teaching Fellow, EEB 187: Advances in Animal Ecology and Evolution\
 2025     Teaching Fellow, EEB 100L: Introduction to Ecology & Animal Behavior Laboratory\
 2025     Teaching Associate, EEB 162: Plant Physiology\
